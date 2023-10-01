@@ -73,8 +73,8 @@ def push_notification(fcmToken):
     registration_token = fcmToken
     message = messaging.Message(
         notification=messaging.Notification(
-            title="message from Python",
-            body="This is a message from Python",
+            title="手スト",
+            body="近くにスト缶持ちがいます！",
         ),
         token=registration_token,
     )
