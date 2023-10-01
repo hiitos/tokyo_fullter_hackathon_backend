@@ -1,0 +1,7 @@
+firebase_functions~=0.1.0
+geopy
+pandas
+python-dotenv
+numpy
+langchain
+openai
